@@ -1,4 +1,4 @@
-![Imagen de encabezado](https://www.freepik.es/fotos-vectores-gratis/fondo-rojo.)
+https://www.freepik.es/fotos-vectores-gratis/fondo-rojo
 
 
 # curso-practico-de-javascrip-desde-0

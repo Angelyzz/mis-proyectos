@@ -1,6 +1,3 @@
-https://www.freepik.es/fotos-vectores-gratis/fondo-rojo
-
-
 # curso-practico-de-javascrip-desde-0
 
  | proyecto | Fecha de inicio | Fecha de finalizacion | Practicado | Finalizado | codigo| Demo

@@ -1,3 +1,6 @@
+![Imagen de encabezado](https://www.freepik.es/fotos-vectores-gratis/fondo-rojo.)
+
+
 # curso-practico-de-javascrip-desde-0
 
  | proyecto | Fecha de inicio | Fecha de finalizacion | Practicado | Finalizado | codigo| Demo
@@ -11,4 +14,3 @@
 |Juego |undefine| undefine | &#97545;|&#97545;|https://github.com/Angelyzz/Juego-creado-con-phasser.git| https://angelyzz.github.io/Juego-creado-con-phasser/
 
 
-![Imagen de encabezado](https://www.freepik.es/fotos-vectores-gratis/fondo-rojo.)

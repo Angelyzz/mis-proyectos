@@ -6,5 +6,5 @@
 |Juego de MOKEPON()|  12/5/23 | undefine|&#97545;|&#97545;|https://github.com/Angelyzz/MOKEPON| https://angelyzz.github.io/MOKEPON/mokepon.html
 |arrays|  12/5/23 | undefine| &#97545;|&#97545;|
 |Tienda |  12/5/23 | undefine| &#97545;|&#97545;|https://github.com/Angelyzz/tienda.git|https://github.com/Angelyzz/tienda.git
-|texto a voz| undefine | undefine|&#97545;|&#97545;|https://github.com/Angelyzz/texto-a-voz|https://angelyzz.github.io/voz-a-texto/
+|texto a voz| undefine | undefine|&#97545;|&#97545;|https://github.com/Angelyzz/voz-a-texto.git|https://angelyzz.github.io/voz-a-texto/
 

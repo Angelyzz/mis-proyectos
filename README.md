@@ -10,4 +10,4 @@
 |Juego |undefine| undefine | &#97545;|&#97545;|https://github.com/Angelyzz/Juego-creado-con-phasser.git| https://angelyzz.github.io/Juego-creado-con-phasser/
 | login | undefine | undefine | &#97545;|&#97545;| https://github.com/Angelyzz/login.git| https://angelyzz.github.io/login/
 | fotos | undefine | undefine | &#97545;|&#97545;|https://github.com/Angelyzz/fotos.git|https://angelyzz.github.io/fotos/
-
+| juego arcanoi | undefine | undefine | &#97545; | &#97545; | https://github.com/Angelyzz/Juego-arkanoi.git |  https://angelyzz.github.io/Juego-arkanoi/
